@@ -22,7 +22,5 @@ class Slovakia(WesternCalendar):
         (5, 8, "Liberation Day"),
         (7, 5, "Saints Cyril and Methodius Day"),
         (8, 29, "Slovak National Uprising anniversary"),
-        (9, 1, "Day of the Constitution of the Slovak Republic"),
         (9, 15, "Day of Blessed Virgin Mary, patron saint of Slovakia"),
-        (11, 17, "Struggle for Freedom and Democracy Day"),
     )

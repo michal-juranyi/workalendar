@@ -3,6 +3,7 @@
 ## master (unreleased)
 
 - Coronation of His Majesty King Charles III Bank holiday in 2023 to the UK calendar.
+- Removed Constitution Day and Struggle for Freedom and Democracy Day holidays from Slovak calendar (#782).
 
 ## v17.0.0 (2023-01-01)
 
